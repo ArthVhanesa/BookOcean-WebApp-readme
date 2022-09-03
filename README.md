@@ -1,16 +1,16 @@
 # BookOcean | Unlimited Ebooks
 
 BookOcean | India's largest free ebook library with over 4.6M+ books.
-• Search by Title, Author, Publisher, ISBN.
-• Treading section with best books of all time.
-• All books are free and divided into 23 categories and 296 sub-categories.
-• Download, read and manage your favourite books at one place.
-• View full book details like title, author, publisher, language, size, format, and many others.
-• Integrated pdf reader for better experience.
-• You can search and download books without any limits.
+- Search by Title, Author, Publisher, ISBN.
+- Treading section with best books of all time.
+- All books are free and divided into 23 categories and 296 sub-categories.
+- Download, read and manage your favourite books at one place.
+- View full book details like title, author, publisher, language, size, format, and many others.
+- Integrated pdf reader for better experience.
+- You can search and download books without any limits.
 
 ## Visit now 🥳
-<h4><a href='https://play.google.com/store/apps/details?id=com.bookocean&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>BookOcean 📚🌐</a></h4>
+<h3><a href='https://play.google.com/store/apps/details?id=com.bookocean&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>BookOcean 📚🌐</a></h3>
 
 ## Languages and Tools: ⚒️
 
