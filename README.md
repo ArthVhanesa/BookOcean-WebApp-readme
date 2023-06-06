@@ -10,7 +10,7 @@ BookOcean | India's largest free ebook library with over 4.6M+ books.
 - You can search and download books without any limits.
 
 ## Visit now 🥳
-<h3><a href='https://play.google.com/store/apps/details?id=com.bookocean&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>BookOcean 📚🌐</a></h3>
+<h3><a href='https://bookocean.netlify.app'>BookOcean 📚🌐</a></h3>
 
 ## Languages and Tools: ⚒️
 
